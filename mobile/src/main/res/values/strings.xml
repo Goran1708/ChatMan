@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CrossChat Analyser</string>
+
+    <!-- Title Strings -->
+    <string name="title_chat_room">Chat Room</string>
+
+    <!-- Label Strings -->
+    <string name="label_welcome">Welcome to <b>CrossChat</b> Message Analyser.\n\nLet me first introduce my self, I\'m the magician behind <b>CrossChat</b> app, I can help you analyse your chat messages.\n\n<b>Can you help me getting your name?</b></string>
+
+    <!-- EditTexts Hints -->
+    <string name="edit_name">Name</string>
+    <string name="edit_message">Type a message</string>
+
+    <!-- Buttons Strings -->
+    <string name="btn_start">LET\'S START</string>
+</resources>
